@@ -12,20 +12,39 @@
 
   #### Dashboard
 
-  <img/>
+  <img src="/img/dashboard.png"/>
 
   #### Lista de itens
 
-  <img/>
+  <img src="/img/lista.png"/>
 
   #### Adicionar um item
 
-  <img/>
+   ##### Botão para adicionar
+
+   <img src="/img/add.png"/>
+   
+  ##### Tela para adicionar
+
+   <img src="/img/additem.png"/>
+  
   
   #### Editar um item
 
-  <img/>
+  ##### Botão para Editar
+
+   <img src="/img/editar.png"/>
+
+   ##### Tela para Editar
+
+   <img src="/img/editaitem.png"/>
   
   #### Excluir um item
 
-  <img/>
+   ##### Botão para Excluir
+
+   <img src="/img/deleteitem.png"/>
+
+   ##### Dialog para Excluir
+
+   <img src="/img/apagar.png"/>
