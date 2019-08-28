@@ -10,3 +10,22 @@
 
 ## Challenge
 
+  #### Dashboard
+
+  <img/>
+
+  #### Lista de itens
+
+  <img/>
+
+  #### Adicionar um item
+
+  <img/>
+  
+  #### Editar um item
+
+  <img/>
+  
+  #### Excluir um item
+
+  <img/>
