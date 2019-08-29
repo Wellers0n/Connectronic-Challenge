@@ -55,7 +55,16 @@
    <img src="/img/apagar.png"/>
 
 
-## Diferencial
+## Bônus
 
 - Fazer uma api em node
+- Test
+- Readme básico sobre o challenge
+
+## Finalizou ?
+
+Se você finalizou o challenge, favor subir ele aqui no github e
+me enviar lá no [React-Brasil](https://react-brasil-slack.herokuapp.com/)<br/>
+
+
 
