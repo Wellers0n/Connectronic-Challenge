@@ -7,15 +7,11 @@
   Connectronic é uma startup focada na automação comercial, queremos que nosso
   cliente tenha uma experiência incrível com nossa plataforma. Nossas tecnologias é direcionada
   na atuação de Food-Service.
-  
-   Queremos que seja feito um CRUD usando ReactJS, também queremos de preferencia
-   que a interface seja feita com `Material-UI` se você tiver alguma dúvida pode 
-   me chamar no [React-Brasil](https://react-brasil-slack.herokuapp.com/)<br/>
 
 ## Challenge
 
   #### O que esperamos de você nesse challenge?
-   Queremos que seja feito um CRUD completo, também queremos de preferencia
+   Queremos que seja feito um CRUD usando ReactJS, também queremos de preferencia
    que a interface seja feita com `Material-UI` se você tiver alguma dúvida pode 
    me chamar no [React-Brasil](https://react-brasil-slack.herokuapp.com/)<br/>
 
