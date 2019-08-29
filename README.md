@@ -10,7 +10,7 @@
 
 ## Challenge
 
-  #### O que esperamos de você nesse challenge challenge?
+  #### O que esperamos de você nesse challenge?
    Queremos que seja feito um CRUD completo, também queremos de preferencia
    que a interface seja feita com `Material-UI` se você tiver alguma dúvida pode 
    me chamar no [React-Brasil](https://react-brasil-slack.herokuapp.com/)<br/>
